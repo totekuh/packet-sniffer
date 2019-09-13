@@ -1,2 +1,2 @@
 # packet-sniffer
-Python packet sniffer. Capturing http and dns records.
+Python packet sniffer. Captures http/dns/raw records.
